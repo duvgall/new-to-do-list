@@ -57,9 +57,9 @@
     opacity: 0.7;
   }
 
-  form {
+  /*form {
     display: flex;
-  }
+  }*/
 
   .btn {
     cursor: pointer;
